@@ -1,9 +1,7 @@
 body {
     color: white;
-    background-color: black;
-<<<<<<< HEAD
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-=======
->>>>>>> e5dabbdddc7d10b74055ee26b3c93528bcb1dbb3
+    background-color: #333;
+    font-size: 150%;
+    font-family: 'Satisfy', cursive;
+    margin: 5em 25%;
 }
